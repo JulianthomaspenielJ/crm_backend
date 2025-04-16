@@ -1,0 +1,11 @@
+# .env
+token.json
+# firebase.json
+credentials.json
+
+
+*.log
+
+Assets/
+
+*.zip
